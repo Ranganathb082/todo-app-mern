@@ -18,3 +18,6 @@ to start the express server
 ```javascript
  npm run dev
 ```
+
+go to [local](http://localhost:3000/)http://localhost:3000/  
+
