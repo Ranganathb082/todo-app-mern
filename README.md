@@ -8,7 +8,7 @@ git clone git@github.com:Ranganathb082/todo-app-mern.git
 ## Run the project
 go to the directory
 ```bash
-cd express-mongo
+cd todo-app-mern
 ```
 install all the packages
 ```javascript
