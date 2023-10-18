@@ -1,13 +1,20 @@
 # todo-app-mern
 
-# clone the project 
-$ git clone git@github.com:Ranganathb082/todo-app-mern.git
+## clone the project
+```bash
+git clone git@github.com:Ranganathb082/todo-app-mern.git
+```
 
-# go to the directory
-$ cd express-mongo
-
-# install all the packages
-$ npm i
-
-# to start the express server
-$ npm run dev
+## Run the project
+go to the directory
+```bash
+cd express-mongo
+```
+install all the packages
+```javascript
+npm i
+```
+to start the express server
+```javascript
+ npm run dev
+```
